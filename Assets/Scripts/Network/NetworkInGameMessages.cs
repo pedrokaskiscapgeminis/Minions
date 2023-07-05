@@ -7,6 +7,8 @@ public class NetworkInGameMessages : NetworkBehaviour
 {
     InGameMessagesUIHandler inGameMessagesUIHandler;
 
+    //Hello
+
     // Start is called before the first frame update
     void Start()
     {
